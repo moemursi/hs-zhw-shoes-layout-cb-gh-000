@@ -15,7 +15,7 @@ has provided a complete image for what the site should look like once the HTML
 and CSS has been updated:
 
 
-#### What They Would Like:
+#### What They Woduld Like:
 
 <p align="center"><br>
   <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/hs-zhw-shoes-layout-complete.jpg">
